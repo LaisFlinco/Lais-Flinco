@@ -27,16 +27,16 @@ Meu DRT de Atriz: 0044518/SP
 
 Me segue nas redes sociais e fique por dentro dos meus trabalhos
 
-[Linkedin:](https://www.linkedin.com/in/lais-flinco-5b9509138/) 
+- [Linkedin](https://www.linkedin.com/in/lais-flinco-5b9509138/) 
 
-[Facebook:]( https://www.facebook.com/laisflinco)
+- [Facebook]( https://www.facebook.com/laisflinco)
 
-[Instagram:]( https://www.instagram.com/laisflinco/)
+- [Instagram]( https://www.instagram.com/laisflinco/)
 
-[Youtube:]( https://www.youtube.com/channel/UC467zdcYUmxGK5Elbgy8c7g?view_as=subscriber&pbjreload=101)
+- [Youtube]( https://www.youtube.com/channel/UC467zdcYUmxGK5Elbgy8c7g?view_as=subscriber&pbjreload=101)
 
 ### Quer criar o seu site?
 
-Veja o orçamento que cabe no seu bolso
+Veja o orçamento que cabe no seu bolso:
 [PlanetsWEB:](http://planetsweb.com.br/)
 
