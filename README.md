@@ -38,5 +38,5 @@ Me segue nas redes sociais e fique por dentro dos meus trabalhos
 ### Quer criar o seu site?
 
 Veja o orçamento que cabe no seu bolso:
-[PlanetsWEB:](http://planetsweb.com.br/)
+[PlanetsWEB](http://planetsweb.com.br/)
 
