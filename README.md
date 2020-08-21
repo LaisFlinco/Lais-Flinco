@@ -1,10 +1,31 @@
-## Lais Flinco
+## Quem é Lais Flinco?
+
+Sou Paulista, tenho 26 anos, sou formada em Licenciatura de Teatro pela Faculdade Paulista de Artes FPA, sempre amei o mundo da arte, já trabalhei na área artistica por muitos anos, mas atualmente trabalho na área de tecnologia. 
 
 You can use the [editor on GitHub](https://github.com/LaisFlinco/Lais-Flinco/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Minhas Carreiras
+
+- Empreendedora
+- Desenvolvedora em WordPress
+- Generalista em RH
+- Diretora de Ecommerce
+- Diretora Administrativa
+- Gerente
+- Sócia
+- Proprietária
+- Vendedora
+- Florista
+- Atriz
+- Professora de Teatro e Artes
+- Bailarina
+- Produção Teatral
+- Direção Teatral
+- Recreação, Monitoria e Personagens Vivos em Festas Infantis.
+
+Meu DRT de Atriz: 0044518/SP
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -32,6 +53,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LaisFlinco/Lais-Flinco/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Fique sabendo mais sobre meus trabalhos
+
+Me segue nas redes sociais e fique por dentro dos meus trabalhos
+
+Linkedin: https://www.linkedin.com/in/lais-flinco-5b9509138/
+Facebook: https://www.facebook.com/laisflinco
+Instagram: https://www.instagram.com/laisflinco/
+Youtube: https://www.youtube.com/channel/UC467zdcYUmxGK5Elbgy8c7g?view_as=subscriber&pbjreload=101
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
